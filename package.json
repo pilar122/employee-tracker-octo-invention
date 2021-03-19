@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pilar122/potential-octo-happiness.git"
+    "url": "git+https://github.com/pilar122/employee-tracker-octo-invention
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pilar122/potential-octo-happiness/issues"
+    "url": "https://github.com/pilar122/employee-tracker-octo-inventionissues"
   },
-  "homepage": "https://github.com/pilar122/potential-octo-happiness#readme",
+  "homepage": "https://github.com/pilar122/employee-tracker-octo-inventionreadme",
   "dependencies": {
     "console.table": "^0.10.0",
     "express": "^4.17.1",
